@@ -1,0 +1,26 @@
+{
+  "name": "namsate-react",
+  "version": "1.0.0",
+  "description": "This is namsate react",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitthallambrut/namsate-react.git"
+  },
+  "keywords": [],
+  "author": "vitthal lambrut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitthallambrut/namsate-react/issues"
+  },
+  "homepage": "https://github.com/vitthallambrut/namsate-react#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
