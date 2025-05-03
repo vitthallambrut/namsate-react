@@ -1,0 +1,105 @@
+ Beginner Level
+What is React? Why use it?
+
+What is JSX?
+
+What are components in React?
+
+Difference between functional and class components.
+
+What is the virtual DOM and how does React use it?
+
+What are props in React?
+
+What is state in React?
+
+What is the difference between state and props?
+
+What are keys in React and why are they important?
+
+What is the role of render() method in React class components?
+
+What is conditional rendering in React?
+
+How do you handle events in React?
+
+How do you apply inline CSS in React?
+
+🔹 Intermediate Level
+What are hooks in React?
+
+useState, useEffect, useRef, useContext, useReducer
+
+What is the useEffect hook and how does it work?
+
+What are controlled and uncontrolled components?
+
+What is the Context API and when would you use it?
+
+What is lifting state up in React?
+
+What is prop drilling and how do you avoid it?
+
+Explain React Router and its key components (Route, Link, BrowserRouter).
+
+What is React.Fragment and why is it used?
+
+What is the difference between useEffect and useLayoutEffect?
+
+What is memoization in React?
+
+React.memo, useMemo, useCallback
+
+🔹 Advanced Level
+How does React handle reconciliation and re-rendering?
+
+What is the difference between class-based lifecycle methods and useEffect?
+
+What are Higher-Order Components (HOC)?
+
+What is a custom hook and how do you create one?
+
+Explain the concept of React Fiber architecture.
+
+What is lazy loading in React?
+
+React.lazy, Suspense
+
+What is server-side rendering (SSR) in React?
+
+How it differs from client-side rendering
+
+What are portals in React?
+
+What is error boundary in React?
+
+How do you optimize performance in a React app?
+
+🔹 React + Ecosystem
+What is Redux? How does it work with React?
+
+Difference between Redux and Context API?
+
+What are the three principles of Redux?
+
+What is middleware in Redux (like thunk/saga)?
+
+What is Next.js and how does it enhance React?
+
+How do you test a React component? (Jest + React Testing Library)
+
+🔹 Tricky/Scenario-Based Questions
+What happens if you call setState in useEffect without a dependency array?
+
+Why shouldn't we update state directly?
+
+How do you prevent unnecessary re-renders?
+
+What are some common performance bottlenecks in React apps and how do you fix them?
+
+How does React handle form data and validation?
+
+Explain a case where you had to use useRef instead of useState.
+
+What is hydration in React?
+
